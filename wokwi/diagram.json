@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "author": "Wenderson Sousa Santos",
+  "editor": "wokwi",
+  "parts": [ { "type": "wokwi-arduino-uno", "id": "uno", "top": -114.6, "left": 28.2, "attrs": {} } ],
+  "connections": [],
+  "dependencies": {}
+}
